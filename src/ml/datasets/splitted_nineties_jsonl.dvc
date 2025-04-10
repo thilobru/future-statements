@@ -1,0 +1,5 @@
+outs:
+- md5: f73c2221d888558dc5bed1f050506ba5.dir
+  size: 1695991
+  nfiles: 3
+  path: splitted_nineties_jsonl

@@ -1,0 +1,4 @@
+[core]
+    remote = future-statements
+['remote "future-statements"']
+    url = /mnt/ceph/storage/data-tmp/teaching-current/ob14dupe/future-statements-dvc

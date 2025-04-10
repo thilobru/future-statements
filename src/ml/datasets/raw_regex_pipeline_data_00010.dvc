@@ -1,0 +1,5 @@
+outs:
+- md5: 3676ebc443709b81ef2edd7d2b780c48.dir
+  size: 12953278462
+  nfiles: 2
+  path: raw_regex_pipeline_data_00010

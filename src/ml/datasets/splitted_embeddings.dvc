@@ -1,0 +1,5 @@
+outs:
+- md5: ceabfe7560b5917a4ad1ad4c8565df8a.dir
+  size: 17223935589
+  nfiles: 3
+  path: splitted_embeddings

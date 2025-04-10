@@ -1,0 +1,5 @@
+outs:
+- md5: 5994a5eb7e2d7a8f2a5347097f2e0c05.dir
+  size: 10781588
+  nfiles: 2
+  path: raw_futurist_data

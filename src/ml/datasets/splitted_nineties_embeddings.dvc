@@ -1,0 +1,5 @@
+outs:
+- md5: d9fdfe4adce629bb5543fe874df1f80e.dir
+  size: 36629781
+  nfiles: 3
+  path: splitted_nineties_embeddings

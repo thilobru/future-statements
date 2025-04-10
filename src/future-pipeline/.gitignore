@@ -1,0 +1,6 @@
+*.sqsh
+config.ini
+models/
+data/
+data.jsonl
+data-*/

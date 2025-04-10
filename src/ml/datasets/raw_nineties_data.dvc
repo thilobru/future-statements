@@ -1,0 +1,5 @@
+outs:
+- md5: ddfa018ad2de0c7177d9e58f05bd9dc6.dir
+  size: 3381884
+  nfiles: 2
+  path: raw_nineties_data

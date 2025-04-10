@@ -1,0 +1,5 @@
+outs:
+- md5: 4458f63d859731365304210beba99141.dir
+  size: 760747524
+  nfiles: 3
+  path: splitted_datasets

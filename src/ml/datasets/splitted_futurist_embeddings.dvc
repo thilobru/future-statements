@@ -1,0 +1,5 @@
+outs:
+- md5: e9e72b5541bf7e834c79e58112429a7d.dir
+  size: 130303635
+  nfiles: 3
+  path: splitted_futurist_embeddings

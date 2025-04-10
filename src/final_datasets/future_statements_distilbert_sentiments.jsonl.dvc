@@ -1,0 +1,4 @@
+outs:
+- md5: adc3b842a760de3779ed36cbc1c235fb
+  size: 38586584
+  path: future_statements_distilbert_sentiments.jsonl

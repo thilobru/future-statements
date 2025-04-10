@@ -1,0 +1,4 @@
+outs:
+- md5: 430e255771a14394717cc3e9a33a1212
+  size: 20562673
+  path: future_statements_rnn_sentiments.jsonl

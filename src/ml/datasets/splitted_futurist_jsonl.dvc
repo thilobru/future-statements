@@ -1,0 +1,5 @@
+outs:
+- md5: b9df406c730fbae08fbb4d451d5596d1.dir
+  size: 5894460
+  nfiles: 3
+  path: splitted_futurist_jsonl
